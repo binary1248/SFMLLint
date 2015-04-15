@@ -1,0 +1,9 @@
+Code style checker for SFML.
+
+© binary1248
+SFMLLint is provided under the
+Mozilla Public License Version 2.0
+(see LICENSE for details)
+
+Dependencies:
+ - Boost filesystem
